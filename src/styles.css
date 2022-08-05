@@ -1,0 +1,28 @@
+.current-temperature {
+  font-size: 100px;
+}
+
+.day-of-the-week {
+  font-size: 36px;
+  color: blue;
+  font-weight: bold;
+}
+.temperature {
+  font-size: 20px;
+  color: blue;
+}
+.temperature-day {
+  font-size: 18px;
+  color: red;
+}
+.temperature-night {
+  font-size: 18px;
+  color: rgb(71, 226, 50);
+}
+.btn-margin {
+  margin-top: 20px;
+}
+
+.current-city {
+  font-size: 60px;
+}
